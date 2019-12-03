@@ -1,1 +1,8 @@
-braze.com
+#
+# JohnList was made with the aim to prevent 
+# tracking advertising and other bullshit no one asked for.
+#
+###########Start###########
+127.0.0.1 braze.com
+127.0.0.1 diagnostics.meethue.com
+############End############
