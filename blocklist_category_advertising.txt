@@ -1,3 +1,4 @@
+####### advertising #######
 
 101com.com
 101order.com
@@ -48439,3 +48440,5 @@ zumobi.com
 127.0.0.1	zzptzdhugavot.review
 127.0.0.1	zzz.clickbank.net
 127.0.0.1	_thums.ero-advertising.com
+
+####### EOF #######

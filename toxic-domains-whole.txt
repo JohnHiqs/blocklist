@@ -1,3 +1,5 @@
+####### toxic domains #######
+
 .cloudns.cc
 .shredded.website
 000invaliddomain.local
@@ -2558,3 +2560,5 @@ zoomial.info
 zsero.com
 zwoho.com
 zzzzzzzzzzzzz.com
+
+####### EOF #######

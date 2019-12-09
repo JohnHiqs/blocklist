@@ -1,3 +1,5 @@
+####### phishing #######
+
 0x-project.com
 0xproject.io
 0xtoken.com
@@ -1056,3 +1058,5 @@ zeepln.io
 zenprolocol.com
 ziber.io
 zilliaq.com
+
+####### EOF #######
