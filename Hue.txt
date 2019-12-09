@@ -1,0 +1,12 @@
+####### HUE-Section #######
+
+127.0.0.1 diagnostics.meethue.com
+#127.0.0.1 www.ecdinterface.philips.com
+#127.0.0.1 dcp.dc1.philips.com
+#127.0.0.1 www2.meethue.com
+127.0.0.1 time1.google.com
+127.0.0.1 time2.google.com
+127.0.0.1 time3.google.com
+127.0.0.1 time4.google.com
+
+####### EOF #######
