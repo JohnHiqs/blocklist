@@ -5,7 +5,7 @@
 
 ####### John's List #######
 
-127.0.0.1 braze.com
+braze.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 www.popup.taboola.com
 0.0.0.0 taboola.com

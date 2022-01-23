@@ -1,79 +1,79 @@
 ####### Samsung Smart TV - that shit is scary #######
 
-127.0.0.1 m7be2.solocoo.tv
-127.0.0.1 ads.samsungads.com
-127.0.0.1 notice.samsungcloudsolution.com
-127.0.0.1 prderrordumphsm.samsungcloudsolution.com
-127.0.0.1 lcprd1.samsungcloudsolution.net
-127.0.0.1 acr0.samsungcloudsolution.com
-127.0.0.1 osb.samsungqbe.com
-127.0.0.1 eu2-scloud-proxy.ssp.samsungosp.com
-127.0.0.1 otn.samsungcloudcdn.com
-127.0.0.1 www.samsungotn.net
-127.0.0.1 us-auth2.samsungosp.com
-127.0.0.1 sso.internetat.tv
-127.0.0.1 otn.samsungcloudcdn.com
-127.0.0.1 osb-apps.samsungqbe.com
-127.0.0.1 invitation.samsungiotcloud.com
-127.0.0.1 configprd.samsungcloudsolution.net
-127.0.0.1 gpm.samsungqbe.com
-127.0.0.1 musicid.samsungcloudsolution.com
-127.0.0.1 cdn.samsungcloudsolution.com
-127.0.0.1 time.samsungcloudsolution.com
-127.0.0.1 apps.samsungcloudcdn.com
-127.0.0.1 d2jcsk9zvdkt48.cloudfront.net
-127.0.0.1 vd.contents.prod.eu.s3.amazonaws.com
-127.0.0.1 osb-eusvc.samsungqbe.com
-127.0.0.1 eu2-scloud-proxy.ssp.samsungosp.com
-127.0.0.1 d2s336w63pl2vv.cloudfront.net
-127.0.0.1 gld.push.samsungosp.com
-127.0.0.1 ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
-127.0.0.1 otnprd9.samsungcloudsolution.net
-127.0.0.1 sas.samsungcloudsolution.com
-127.0.0.1 osb-eusvc.samsungqbe.com
+m7be2.solocoo.tv
+ads.samsungads.com
+notice.samsungcloudsolution.com
+prderrordumphsm.samsungcloudsolution.com
+lcprd1.samsungcloudsolution.net
+acr0.samsungcloudsolution.com
+osb.samsungqbe.com
+eu2-scloud-proxy.ssp.samsungosp.com
+otn.samsungcloudcdn.com
+www.samsungotn.net
+us-auth2.samsungosp.com
+sso.internetat.tv
+otn.samsungcloudcdn.com
+osb-apps.samsungqbe.com
+invitation.samsungiotcloud.com
+configprd.samsungcloudsolution.net
+gpm.samsungqbe.com
+musicid.samsungcloudsolution.com
+cdn.samsungcloudsolution.com
+time.samsungcloudsolution.com
+apps.samsungcloudcdn.com
+d2jcsk9zvdkt48.cloudfront.net
+vd.contents.prod.eu.s3.amazonaws.com
+osb-eusvc.samsungqbe.com
+eu2-scloud-proxy.ssp.samsungosp.com
+d2s336w63pl2vv.cloudfront.net
+gld.push.samsungosp.com
+ocfconnect-shard-eu02-euwest1.samsungiotcloud.com
+otnprd9.samsungcloudsolution.net
+sas.samsungcloudsolution.com
+osb-eusvc.samsungqbe.com
 
 # added additional servers that might be existing from a to z
-127.0.0.1 otnprd0.samsungcloudsolution.net
-127.0.0.1 otnprd1.samsungcloudsolution.net
-127.0.0.1 otnprd2.samsungcloudsolution.net
-127.0.0.1 otnprd3.samsungcloudsolution.net
-127.0.0.1 otnprd4.samsungcloudsolution.net
-127.0.0.1 otnprd5.samsungcloudsolution.net
-127.0.0.1 otnprd6.samsungcloudsolution.net
-127.0.0.1 otnprd7.samsungcloudsolution.net
+otnprd0.samsungcloudsolution.net
+otnprd1.samsungcloudsolution.net
+otnprd2.samsungcloudsolution.net
+otnprd3.samsungcloudsolution.net
+otnprd4.samsungcloudsolution.net
+otnprd5.samsungcloudsolution.net
+otnprd6.samsungcloudsolution.net
+otnprd7.samsungcloudsolution.net
 # existing
-127.0.0.1 otnprd8.samsungcloudsolution.net
-127.0.0.1 otnprd9.samsungcloudsolution.net
-127.0.0.1 otnprd10.samsungcloudsolution.net
+otnprd8.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net
+otnprd10.samsungcloudsolution.net
 # existing
-127.0.0.1 otnprd11.samsungcloudsolution.net
-127.0.0.1 otnprd12.samsungcloudsolution.net
+otnprd11.samsungcloudsolution.net
+otnprd12.samsungcloudsolution.net
 # added additional servers that might be existing from a to z
-127.0.0.1 apu.samsungelectronics.com
-127.0.0.1 bpu.samsungelectronics.com
-127.0.0.1 cpu.samsungelectronics.com
-127.0.0.1 dpu.samsungelectronics.com
-127.0.0.1 epu.samsungelectronics.com
-127.0.0.1 fpu.samsungelectronics.com
-127.0.0.1 gpu.samsungelectronics.com
-127.0.0.1 hpu.samsungelectronics.com
-127.0.0.1 ipu.samsungelectronics.com
-127.0.0.1 jpu.samsungelectronics.com
-127.0.0.1 kpu.samsungelectronics.com
-127.0.0.1 lpu.samsungelectronics.com
-127.0.0.1 mpu.samsungelectronics.com
-127.0.0.1 npu.samsungelectronics.com
-127.0.0.1 opu.samsungelectronics.com
-127.0.0.1 ppu.samsungelectronics.com
-127.0.0.1 qpu.samsungelectronics.com
-127.0.0.1 rpu.samsungelectronics.com
-127.0.0.1 spu.samsungelectronics.com
-127.0.0.1 tpu.samsungelectronics.com
-127.0.0.1 upu.samsungelectronics.com
-127.0.0.1 vpu.samsungelectronics.com
-127.0.0.1 wpu.samsungelectronics.com
-127.0.0.1 xpu.samsungelectronics.com
-127.0.0.1 ypu.samsungelectronics.com
-127.0.0.1 zpu.samsungelectronics.com
+apu.samsungelectronics.com
+bpu.samsungelectronics.com
+cpu.samsungelectronics.com
+dpu.samsungelectronics.com
+epu.samsungelectronics.com
+fpu.samsungelectronics.com
+gpu.samsungelectronics.com
+hpu.samsungelectronics.com
+ipu.samsungelectronics.com
+jpu.samsungelectronics.com
+kpu.samsungelectronics.com
+lpu.samsungelectronics.com
+mpu.samsungelectronics.com
+npu.samsungelectronics.com
+opu.samsungelectronics.com
+ppu.samsungelectronics.com
+qpu.samsungelectronics.com
+rpu.samsungelectronics.com
+spu.samsungelectronics.com
+tpu.samsungelectronics.com
+upu.samsungelectronics.com
+vpu.samsungelectronics.com
+wpu.samsungelectronics.com
+xpu.samsungelectronics.com
+ypu.samsungelectronics.com
+zpu.samsungelectronics.com
 
 ####### EOF #######
