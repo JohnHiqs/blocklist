@@ -1,5 +1,5 @@
 #
-# John's List  
+# John's List
 # Testing of new block rules and adding them to seperate files after working out the details.
 #
 
@@ -36,7 +36,7 @@ braze.com
  nr.taboola.com
  api.taboola.com
  c2.taboola.com
- https://cdn.taboola.com
+cdn.taboola.com
  urc.taboolasyndication.com
  taboola.com.edgekey.net
  esd-secure.taboola.com.edgekey.net
