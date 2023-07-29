@@ -36,7 +36,7 @@ braze.com
  nr.taboola.com
  api.taboola.com
  c2.taboola.com
-cdn.taboola.com
+ cdn.taboola.com
  urc.taboolasyndication.com
  taboola.com.edgekey.net
  esd-secure.taboola.com.edgekey.net
