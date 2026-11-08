@@ -1,0 +1,40 @@
+#
+# Dark patterns
+# Vendors whose product is a manipulative UI pattern against consumers.
+# Checked against public DNS on 2026-11-08; one domain per line.
+#
+
+####### dark patterns #######
+
+# --- Fake social proof / fake urgency ("Anna from Vienna just bought...")
+api.fomo.com
+cdn.provesrc.com
+api.provesrc.com
+cdn.useproof.com
+a.trstplse.com
+
+# --- E-mail gates, exit-intent and spin-to-win popups
+a.omappapi.com
+a.opmnstr.com
+api.opmnstr.com
+widget.privy.com
+loader.wisepops.com
+cdn.justuno.com
+cdn.popt.in
+sleeknotecustomerscripts.sleeknote.com
+my.hellobar.com
+l.getsitecontrol.com
+static-forms.klaviyo.com
+
+# --- Web-push permission nags
+cdn.onesignal.com
+cdn.pushengage.com
+cdn.webpushr.com
+cdn.pushalert.co
+cdn.subscribers.com
+cdn.aimtell.com
+
+# --- Pay-or-consent walls
+api.contentpass.net
+contentpass.net
+contentpass.de
